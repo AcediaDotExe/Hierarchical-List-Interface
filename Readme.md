@@ -41,7 +41,7 @@
 ***
 
 ### Express
-<<<<<<< HEAD
+
 * Развертываем наш сервер:
 `/cd /d (yourPath..)/backend` на любом хостинге. Я залил его на
 [Heroku](https://quiet-cove-12120.herokuapp.com/). В этот url можно добавить:
@@ -49,7 +49,6 @@
 =======
 * Open in cmd folder "backend":
 `/cd /d (yourPath..)/backend`
->>>>>>> f639aaa78420b70e7ac21cf415c9172cf60a464f
 
  * [Документация по загрузке Node.js на Heruko](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
 
