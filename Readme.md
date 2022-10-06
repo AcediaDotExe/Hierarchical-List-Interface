@@ -1,6 +1,6 @@
 # Интерфейс для работы с иерархическим списком
 
-![О бдз](https://www.meme-arsenal.com/memes/2c5f68adf4f6902f956352373689c072.jpg)
+![Няшный котик](https://www.meme-arsenal.com/memes/2c5f68adf4f6902f956352373689c072.jpg)
 
 ## Деплой проекта на хостинг
 
